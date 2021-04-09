@@ -1,0 +1,9 @@
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\bin\Debug\netcoreapp3.1\BookWorms.BusinessLogic.deps.json
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\bin\Debug\netcoreapp3.1\BookWorms.BusinessLogic.dll
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\bin\Debug\netcoreapp3.1\BookWorms.BusinessLogic.pdb
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\obj\Debug\netcoreapp3.1\BookWorms.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\obj\Debug\netcoreapp3.1\BookWorms.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\obj\Debug\netcoreapp3.1\BookWorms.BusinessLogic.AssemblyInfo.cs
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\obj\Debug\netcoreapp3.1\BookWorms.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\obj\Debug\netcoreapp3.1\BookWorms.BusinessLogic.dll
+C:\Users\soanc\source\repos\BookWorms\BookWorms.BusinessLogic\obj\Debug\netcoreapp3.1\BookWorms.BusinessLogic.pdb
